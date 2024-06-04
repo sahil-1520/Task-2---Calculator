@@ -1,1 +1,1 @@
-This is a Basic Calculator app made with Jetpack Compose.
+This is the second task of the Black Pearls Android Application Internship. This is a simple Calculator app made using kotlin and Jetpack compose.
